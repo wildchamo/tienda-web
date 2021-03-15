@@ -10,12 +10,16 @@ main {
 }
 .articulos{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .item{
     width: 300px;
     height: 150px;
     background-color: salmon;
+}
+img{
+    width: 35px;
+    height: 35px;
 }
 
 footer{
