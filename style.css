@@ -11,12 +11,12 @@ header{
     align-items: flex-end;
 }
 logo{
-    width: 25%;
+    width: 10%;
     height: 55px;
-    
 }
+
 navvar{
-    width: 65%;
+    width: 70%;
     height: 55px;
     display: flex;
     justify-content: center;
@@ -28,14 +28,14 @@ nav{
     justify-content: space-evenly;
 
 }
-img{
+nav a img{
     width: 35px;
     height: 40px;
 }
 
 
 header .header-input-container{
-    width: 625px;
+    width: 725px;
     border-radius: 100px;
     border: 1px solid #dfe1e5;
     display: flex;
@@ -43,7 +43,7 @@ header .header-input-container{
     text-align: center;
 }
 header .header-input input{
-    width: 550px;
+    width: 650px;
     height: 40px;
     border:none;
     outline: none;
