@@ -10,12 +10,12 @@ header{
     flex-direction: row;
     align-items: flex-end;
 }
-logo{
+.logo{
     width: 10%;
     height: 55px;
 }
 
-navvar{
+.navvar{
     width: 70%;
     height: 55px;
     display: flex;
