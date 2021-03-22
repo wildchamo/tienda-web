@@ -58,3 +58,10 @@ header .header-input .micro-icon {
     height: 18px;
     cursor: pointer;
 }   
+
+footer{
+    width: 100%;
+    background-color: gray;
+    height: 100px;
+    }
+    

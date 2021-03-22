@@ -1,0 +1,13 @@
+main{
+    display: flex;
+}
+.seccion{
+    width: 50%;
+    height: 300px;
+}
+.seccion1{
+    background-color: red;
+}
+.seccion2{
+    background-color: blue;
+}
